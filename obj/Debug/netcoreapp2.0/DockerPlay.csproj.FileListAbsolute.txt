@@ -1,0 +1,11 @@
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\bin\Debug\netcoreapp2.0\DockerPlay.deps.json
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\bin\Debug\netcoreapp2.0\DockerPlay.runtimeconfig.json
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\bin\Debug\netcoreapp2.0\DockerPlay.runtimeconfig.dev.json
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\bin\Debug\netcoreapp2.0\DockerPlay.dll
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\bin\Debug\netcoreapp2.0\DockerPlay.pdb
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\obj\Debug\netcoreapp2.0\DockerPlay.csprojResolveAssemblyReference.cache
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\obj\Debug\netcoreapp2.0\DockerPlay.csproj.CoreCompileInputs.cache
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\obj\Debug\netcoreapp2.0\DockerPlay.AssemblyInfoInputs.cache
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\obj\Debug\netcoreapp2.0\DockerPlay.AssemblyInfo.cs
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\obj\Debug\netcoreapp2.0\DockerPlay.dll
+C:\Users\cdelange\Documents\Visual Studio 2017\ProjectsDocker\DockerPlay\DockerPlay\obj\Debug\netcoreapp2.0\DockerPlay.pdb
